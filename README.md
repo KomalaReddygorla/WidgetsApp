@@ -5,3 +5,7 @@ In this App homescreen widgets are created.
 Widgets makes users easy access to the app.
 These are added in the home screen.
 Users can directly open the app by using this widgets.
+
+## Required
+1.Android Studio
+2.Java
