@@ -12,3 +12,6 @@ Users can directly open the app by using this widgets.
 ## Required
 * Android Studio
 * Java
+
+## Dependencies
+* [Android Studio](https://developer.android.com/studio/install)
